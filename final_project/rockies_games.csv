@@ -1,0 +1,190 @@
+game_id,date,opponent,home_away,rockies_score,opponent_score,result
+401694910,2025-03-28T20:10Z,Tampa Bay Rays,away,2,3,Loss
+401694932,2025-03-29T20:10Z,Tampa Bay Rays,away,2,1,Win
+401694947,2025-03-30T17:40Z,Tampa Bay Rays,away,4,6,Loss
+401694961,2025-03-31T19:05Z,Philadelphia Phillies,away,1,6,Loss
+401694989,2025-04-02T22:45Z,Philadelphia Phillies,away,1,5,Loss
+401695004,2025-04-03T17:05Z,Philadelphia Phillies,away,1,3,Loss
+401695018,2025-04-04T20:10Z,Athletics,home,3,6,Loss
+401695033,2025-04-06T00:10Z,Athletics,home,4,7,Loss
+401695048,2025-04-06T19:10Z,Athletics,home,12,5,Win
+401695072,2025-04-09T00:40Z,Milwaukee Brewers,home,1,7,Loss
+401695087,2025-04-10T00:40Z,Milwaukee Brewers,home,2,17,Loss
+401695097,2025-04-10T19:10Z,Milwaukee Brewers,home,7,2,Win
+401695109,2025-04-12T01:40Z,San Diego Padres,away,0,8,Loss
+401695124,2025-04-13T00:40Z,San Diego Padres,away,0,2,Loss
+401695139,2025-04-13T20:10Z,San Diego Padres,away,0,6,Loss
+401695152,2025-04-15T02:10Z,Los Angeles Dodgers,away,3,5,Loss
+401695167,2025-04-16T02:10Z,Los Angeles Dodgers,away,2,6,Loss
+401695182,2025-04-17T02:10Z,Los Angeles Dodgers,away,7,8,Loss
+401695221,2025-04-19T20:10Z,Washington Nationals,home,11,12,Loss
+401695236,2025-04-20T19:10Z,Washington Nationals,home,2,3,Loss
+401768543,2025-04-21T00:10Z,Washington Nationals,home,3,1,Win
+401695254,2025-04-22T23:40Z,Kansas City Royals,away,3,4,Loss
+401695279,2025-04-24T18:10Z,Kansas City Royals,away,4,7,Loss
+401769126,2025-04-24T21:25Z,Kansas City Royals,away,2,6,Loss
+401695292,2025-04-26T00:40Z,Cincinnati Reds,home,7,8,Loss
+401695307,2025-04-26T19:10Z,Cincinnati Reds,home,4,6,Loss
+401695322,2025-04-27T19:10Z,Cincinnati Reds,home,1,8,Loss
+401695335,2025-04-29T00:40Z,Atlanta Braves,home,3,6,Loss
+401695348,2025-04-30T00:40Z,Atlanta Braves,home,2,8,Loss
+401695363,2025-04-30T19:10Z,Atlanta Braves,home,2,1,Win
+401695376,2025-05-02T01:45Z,San Francisco Giants,away,4,3,Win
+401695391,2025-05-03T02:15Z,San Francisco Giants,away,0,4,Loss
+401695406,2025-05-03T20:05Z,San Francisco Giants,away,3,6,Loss
+401695421,2025-05-04T20:05Z,San Francisco Giants,away,3,9,Loss
+401695459,2025-05-08T00:40Z,Detroit Tigers,home,6,8,Loss
+401695468,2025-05-08T19:10Z,Detroit Tigers,home,2,10,Loss
+401770084,2025-05-08T22:10Z,Detroit Tigers,home,1,11,Loss
+401695481,2025-05-10T00:40Z,San Diego Padres,home,9,13,Loss
+401695496,2025-05-11T00:10Z,San Diego Padres,home,0,21,Loss
+401695511,2025-05-11T19:10Z,San Diego Padres,home,9,3,Win
+401695521,2025-05-13T00:05Z,Texas Rangers,away,1,2,Loss
+401695536,2025-05-14T00:05Z,Texas Rangers,away,1,4,Loss
+401695551,2025-05-15T00:05Z,Texas Rangers,away,3,8,Loss
+401695575,2025-05-17T01:40Z,Arizona Diamondbacks,away,0,8,Loss
+401695590,2025-05-18T00:10Z,Arizona Diamondbacks,away,14,12,Win
+401695605,2025-05-18T20:10Z,Arizona Diamondbacks,away,0,1,Loss
+401695616,2025-05-20T00:40Z,Philadelphia Phillies,home,3,9,Loss
+401695631,2025-05-21T00:40Z,Philadelphia Phillies,home,4,7,Loss
+401695646,2025-05-22T00:40Z,Philadelphia Phillies,home,5,9,Loss
+401695657,2025-05-22T19:10Z,Philadelphia Phillies,home,0,2,Loss
+401695671,2025-05-24T00:40Z,New York Yankees,home,3,2,Win
+401695686,2025-05-24T20:10Z,New York Yankees,home,1,13,Loss
+401695701,2025-05-25T19:10Z,New York Yankees,home,4,5,Loss
+401695710,2025-05-26T18:20Z,Chicago Cubs,away,1,3,Loss
+401695723,2025-05-28T00:05Z,Chicago Cubs,away,3,4,Loss
+401695738,2025-05-29T00:05Z,Chicago Cubs,away,1,2,Loss
+401695753,2025-05-30T23:10Z,New York Mets,away,2,4,Loss
+401695768,2025-05-31T20:10Z,New York Mets,away,2,8,Loss
+401695783,2025-06-01T17:40Z,New York Mets,away,3,5,Loss
+401695796,2025-06-02T22:40Z,Miami Marlins,away,6,4,Win
+401695806,2025-06-03T22:40Z,Miami Marlins,away,3,2,Win
+401695821,2025-06-04T16:10Z,Miami Marlins,away,3,2,Win
+401695855,2025-06-07T00:40Z,New York Mets,home,2,4,Loss
+401695870,2025-06-08T01:40Z,New York Mets,home,1,8,Loss
+401695885,2025-06-08T19:10Z,New York Mets,home,5,13,Loss
+401695909,2025-06-11T00:40Z,San Francisco Giants,home,5,6,Loss
+401695924,2025-06-12T00:40Z,San Francisco Giants,home,7,10,Loss
+401695935,2025-06-12T19:10Z,San Francisco Giants,home,8,7,Win
+401695938,2025-06-13T23:15Z,Atlanta Braves,away,4,12,Loss
+401695953,2025-06-14T20:20Z,Atlanta Braves,away,1,4,Loss
+401695968,2025-06-15T17:35Z,Atlanta Braves,away,10,1,Win
+401695983,2025-06-16T22:45Z,Washington Nationals,away,6,4,Win
+401695991,2025-06-17T22:45Z,Washington Nationals,away,10,6,Win
+401696006,2025-06-18T22:45Z,Washington Nationals,away,3,1,Win
+401696021,2025-06-19T17:05Z,Washington Nationals,away,3,4,Loss
+401696041,2025-06-21T00:40Z,Arizona Diamondbacks,home,8,14,Loss
+401696056,2025-06-22T01:10Z,Arizona Diamondbacks,home,3,5,Loss
+401696071,2025-06-22T19:10Z,Arizona Diamondbacks,home,4,2,Win
+401696097,2025-06-25T00:40Z,Los Angeles Dodgers,home,7,9,Loss
+401696112,2025-06-26T00:40Z,Los Angeles Dodgers,home,1,8,Loss
+401696123,2025-06-26T19:10Z,Los Angeles Dodgers,home,1,3,Loss
+401696134,2025-06-28T00:10Z,Milwaukee Brewers,away,6,10,Loss
+401696149,2025-06-28T20:10Z,Milwaukee Brewers,away,0,5,Loss
+401696164,2025-06-29T18:10Z,Milwaukee Brewers,away,4,3,Win
+401696189,2025-07-02T00:40Z,Houston Astros,home,5,6,Loss
+401696204,2025-07-03T00:40Z,Houston Astros,home,3,5,Loss
+401696214,2025-07-03T19:10Z,Houston Astros,home,7,6,Win
+401696227,2025-07-05T00:10Z,Chicago White Sox,home,2,3,Loss
+401696242,2025-07-06T01:10Z,Chicago White Sox,home,3,10,Loss
+401696257,2025-07-06T19:10Z,Chicago White Sox,home,6,4,Win
+401696263,2025-07-07T23:10Z,Boston Red Sox,away,3,9,Loss
+401696273,2025-07-08T23:10Z,Boston Red Sox,away,2,10,Loss
+401696288,2025-07-09T23:10Z,Boston Red Sox,away,2,10,Loss
+401696314,2025-07-11T23:10Z,Cincinnati Reds,away,3,2,Win
+401696329,2025-07-12T20:10Z,Cincinnati Reds,away,3,4,Loss
+401696344,2025-07-13T17:40Z,Cincinnati Reds,away,2,4,Loss
+401696370,2025-07-19T00:40Z,Minnesota Twins,home,6,4,Win
+401696385,2025-07-20T00:10Z,Minnesota Twins,home,10,6,Win
+401696400,2025-07-20T19:10Z,Minnesota Twins,home,1,7,Loss
+401696415,2025-07-22T00:40Z,St. Louis Cardinals,home,2,6,Loss
+401696430,2025-07-23T00:40Z,St. Louis Cardinals,home,8,4,Win
+401696445,2025-07-23T19:10Z,St. Louis Cardinals,home,6,0,Win
+401696455,2025-07-25T23:05Z,Baltimore Orioles,away,6,5,Win
+401696470,2025-07-26T23:05Z,Baltimore Orioles,away,0,18,Loss
+401696485,2025-07-27T17:35Z,Baltimore Orioles,away,1,5,Loss
+401696500,2025-07-28T22:40Z,Cleveland Guardians,away,8,6,Win
+401696515,2025-07-29T22:40Z,Cleveland Guardians,away,4,10,Loss
+401696530,2025-07-30T22:40Z,Cleveland Guardians,away,0,5,Loss
+401696556,2025-08-02T00:10Z,Pittsburgh Pirates,home,17,16,Win
+401696571,2025-08-02T19:10Z,Pittsburgh Pirates,home,8,5,Win
+401696586,2025-08-03T19:10Z,Pittsburgh Pirates,home,5,9,Loss
+401696600,2025-08-05T00:40Z,Toronto Blue Jays,home,1,15,Loss
+401696614,2025-08-06T00:40Z,Toronto Blue Jays,home,4,10,Loss
+401696629,2025-08-06T19:10Z,Toronto Blue Jays,home,1,20,Loss
+401696649,2025-08-09T01:40Z,Arizona Diamondbacks,away,1,6,Loss
+401696664,2025-08-10T00:10Z,Arizona Diamondbacks,away,5,6,Loss
+401696679,2025-08-10T20:10Z,Arizona Diamondbacks,away,6,13,Loss
+401696687,2025-08-11T23:45Z,St. Louis Cardinals,away,2,3,Loss
+401696702,2025-08-12T23:45Z,St. Louis Cardinals,away,3,0,Win
+401696717,2025-08-13T18:15Z,St. Louis Cardinals,away,6,5,Win
+401696730,2025-08-15T00:40Z,Arizona Diamondbacks,home,2,8,Loss
+401696742,2025-08-16T00:40Z,Arizona Diamondbacks,home,4,3,Win
+401696757,2025-08-17T00:10Z,Arizona Diamondbacks,home,10,7,Win
+401696772,2025-08-17T19:10Z,Arizona Diamondbacks,home,6,5,Win
+401696784,2025-08-19T00:40Z,Los Angeles Dodgers,home,4,3,Win
+401696799,2025-08-20T00:40Z,Los Angeles Dodgers,home,4,11,Loss
+401696813,2025-08-21T00:40Z,Los Angeles Dodgers,home,8,3,Win
+401696823,2025-08-21T19:10Z,Los Angeles Dodgers,home,5,9,Loss
+401696826,2025-08-22T22:40Z,Pittsburgh Pirates,away,0,9,Loss
+401696841,2025-08-23T22:40Z,Pittsburgh Pirates,away,1,5,Loss
+401696856,2025-08-24T16:05Z,Pittsburgh Pirates,away,0,4,Loss
+401696891,2025-08-27T00:10Z,Houston Astros,away,6,1,Win
+401696906,2025-08-28T00:10Z,Houston Astros,away,0,4,Loss
+401696917,2025-08-28T18:10Z,Houston Astros,away,3,4,Loss
+401696932,2025-08-30T00:40Z,Chicago Cubs,home,7,11,Loss
+401696947,2025-08-31T00:10Z,Chicago Cubs,home,3,4,Loss
+401696962,2025-08-31T19:10Z,Chicago Cubs,home,6,5,Win
+401696976,2025-09-01T20:10Z,San Francisco Giants,home,2,8,Loss
+401696990,2025-09-03T00:40Z,San Francisco Giants,home,4,7,Loss
+401697005,2025-09-04T00:40Z,San Francisco Giants,home,8,10,Loss
+401697026,2025-09-06T00:40Z,San Diego Padres,home,3,0,Win
+401697041,2025-09-07T00:10Z,San Diego Padres,home,8,10,Loss
+401697056,2025-09-07T19:10Z,San Diego Padres,home,1,8,Loss
+401697067,2025-09-09T02:10Z,Los Angeles Dodgers,away,1,3,Loss
+401697082,2025-09-10T02:10Z,Los Angeles Dodgers,away,2,7,Loss
+401697097,2025-09-11T02:10Z,Los Angeles Dodgers,away,0,9,Loss
+401697108,2025-09-12T01:40Z,San Diego Padres,away,0,2,Loss
+401697122,2025-09-13T01:40Z,San Diego Padres,away,4,2,Win
+401697137,2025-09-14T00:40Z,San Diego Padres,away,3,11,Loss
+401697152,2025-09-14T20:10Z,San Diego Padres,away,6,9,Loss
+401697175,2025-09-17T00:40Z,Miami Marlins,home,5,6,Loss
+401697190,2025-09-18T00:40Z,Miami Marlins,home,4,8,Loss
+401697201,2025-09-18T19:10Z,Miami Marlins,home,7,9,Loss
+401697215,2025-09-20T00:10Z,Los Angeles Angels,home,7,6,Win
+401697230,2025-09-21T00:10Z,Los Angeles Angels,home,0,3,Loss
+401697245,2025-09-21T19:10Z,Los Angeles Angels,home,3,1,Win
+401697260,2025-09-24T01:40Z,Seattle Mariners,away,3,4,Loss
+401697275,2025-09-25T01:40Z,Seattle Mariners,away,2,9,Loss
+401697289,2025-09-26T01:40Z,Seattle Mariners,away,2,6,Loss
+401697304,2025-09-27T02:15Z,San Francisco Giants,away,3,6,Loss
+401697319,2025-09-27T20:05Z,San Francisco Giants,away,3,4,Loss
+401697334,2025-09-28T19:05Z,San Francisco Giants,away,0,4,Loss
+401814690,2026-03-27T23:10Z,Miami Marlins,away,1,2,Loss
+401814709,2026-03-28T20:10Z,Miami Marlins,away,3,4,Loss
+401814724,2026-03-29T17:40Z,Miami Marlins,away,3,4,Loss
+401814737,2026-03-30T23:07Z,Toronto Blue Jays,away,14,5,Win
+401814752,2026-03-31T23:07Z,Toronto Blue Jays,away,1,5,Loss
+401814766,2026-04-01T17:07Z,Toronto Blue Jays,away,2,1,Win
+401814792,2026-04-03T20:10Z,Philadelphia Phillies,home,1,10,Loss
+401814807,2026-04-05T00:10Z,Philadelphia Phillies,home,1,2,Loss
+401814822,2026-04-05T19:10Z,Philadelphia Phillies,home,4,1,Win
+401814837,2026-04-07T00:40Z,Houston Astros,home,9,7,Win
+401814852,2026-04-08T00:40Z,Houston Astros,home,5,1,Win
+401814867,2026-04-08T19:10Z,Houston Astros,home,9,1,Win
+401814875,2026-04-10T01:40Z,San Diego Padres,away,3,7,Loss
+401814888,2026-04-11T01:40Z,San Diego Padres,away,2,5,Loss
+401814903,2026-04-12T00:40Z,San Diego Padres,away,5,9,Loss
+401814918,2026-04-12T20:10Z,San Diego Padres,away,2,7,Loss
+401814940,2026-04-15T00:10Z,Houston Astros,away,6,7,Loss
+401814955,2026-04-16T00:10Z,Houston Astros,away,1,3,Loss
+401814966,2026-04-17T00:10Z,Houston Astros,away,3,2,Win
+401814981,2026-04-18T00:40Z,Los Angeles Dodgers,home,1,7,Loss
+401814996,2026-04-19T00:10Z,Los Angeles Dodgers,home,4,3,Win
+401815011,2026-04-19T19:10Z,Los Angeles Dodgers,home,9,6,Win
+401815023,2026-04-21T00:40Z,Los Angeles Dodgers,home,3,12,Loss
+401815036,2026-04-22T00:40Z,San Diego Padres,home,0,1,Loss
+401815051,2026-04-23T00:40Z,San Diego Padres,home,8,3,Win
+401815062,2026-04-23T19:10Z,San Diego Padres,home,8,10,Loss
+401815067,2026-04-24T23:10Z,New York Mets,away,4,3,Win

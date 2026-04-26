@@ -1,0 +1,159 @@
+{
+     "team": "Colorado Rockies",
+     "analysis_last_run": "2026-04-26",
+     "overall_record": {
+          "total_games": 189,
+          "wins": 54,
+          "losses": 135,
+          "win_percentage": 0.286
+     },
+     "scoring": {
+          "average_runs_scored": 3.75,
+          "average_runs_allowed": 6.08,
+          "total_runs_scored": 709,
+          "total_runs_allowed": 1149
+     },
+     "home_away_split": {
+          "home_wins": 32,
+          "home_losses": 62,
+          "away_wins": 22,
+          "away_losses": 73
+     },
+     "notable_games": {
+          "biggest_win": {
+               "margin": 9,
+               "opponent": "Atlanta Braves"
+          },
+          "biggest_loss": {
+               "margin": 21,
+               "opponent": "San Diego Padres"
+          }
+     },
+     "current_streak": "1 game win streak",
+     "opponent_matchups": {
+          "Tampa Bay Rays": {
+               "wins": 1,
+               "losses": 2
+          },
+          "Philadelphia Phillies": {
+               "wins": 1,
+               "losses": 9
+          },
+          "Athletics": {
+               "wins": 1,
+               "losses": 2
+          },
+          "Milwaukee Brewers": {
+               "wins": 2,
+               "losses": 4
+          },
+          "San Diego Padres": {
+               "wins": 4,
+               "losses": 16
+          },
+          "Los Angeles Dodgers": {
+               "wins": 4,
+               "losses": 13
+          },
+          "Washington Nationals": {
+               "wins": 4,
+               "losses": 3
+          },
+          "Kansas City Royals": {
+               "wins": 0,
+               "losses": 3
+          },
+          "Cincinnati Reds": {
+               "wins": 1,
+               "losses": 5
+          },
+          "Atlanta Braves": {
+               "wins": 2,
+               "losses": 4
+          },
+          "San Francisco Giants": {
+               "wins": 2,
+               "losses": 11
+          },
+          "Detroit Tigers": {
+               "wins": 0,
+               "losses": 3
+          },
+          "Texas Rangers": {
+               "wins": 0,
+               "losses": 3
+          },
+          "Arizona Diamondbacks": {
+               "wins": 5,
+               "losses": 8
+          },
+          "New York Yankees": {
+               "wins": 1,
+               "losses": 2
+          },
+          "Chicago Cubs": {
+               "wins": 1,
+               "losses": 5
+          },
+          "New York Mets": {
+               "wins": 1,
+               "losses": 6
+          },
+          "Miami Marlins": {
+               "wins": 3,
+               "losses": 6
+          },
+          "Houston Astros": {
+               "wins": 6,
+               "losses": 6
+          },
+          "Chicago White Sox": {
+               "wins": 1,
+               "losses": 2
+          },
+          "Boston Red Sox": {
+               "wins": 0,
+               "losses": 3
+          },
+          "Minnesota Twins": {
+               "wins": 2,
+               "losses": 1
+          },
+          "St. Louis Cardinals": {
+               "wins": 4,
+               "losses": 2
+          },
+          "Baltimore Orioles": {
+               "wins": 1,
+               "losses": 2
+          },
+          "Cleveland Guardians": {
+               "wins": 1,
+               "losses": 2
+          },
+          "Pittsburgh Pirates": {
+               "wins": 2,
+               "losses": 4
+          },
+          "Toronto Blue Jays": {
+               "wins": 2,
+               "losses": 4
+          },
+          "Los Angeles Angels": {
+               "wins": 2,
+               "losses": 1
+          },
+          "Seattle Mariners": {
+               "wins": 0,
+               "losses": 3
+          }
+     },
+     "best_matchup": {
+          "opponent": "Minnesota Twins",
+          "win_percentage_vs_them": 0.667
+     },
+     "toughest_matchup": {
+          "opponent": "Kansas City Royals",
+          "win_percentage_vs_them": 0.0
+     }
+}
